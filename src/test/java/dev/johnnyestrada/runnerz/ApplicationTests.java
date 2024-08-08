@@ -1,10 +1,10 @@
-package dev.johnnyestrada.runnertz;
+package dev.johnnyestrada.runnerz;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RunnertzApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
